@@ -1,5 +1,8 @@
 # Data Scientist
 
+<img width="343" alt="Screenshot 2024-08-05 at 12 39 02 AM" src="https://github.com/user-attachments/assets/dd5d9ec3-bce5-419d-a575-248c6b4365bf">
+
+
 ## Professional Summary
 
 I am an aspiring data scientist with a passion for solving complex problems through data processing and analysis. Over the past few years, I have significantly strengthened my programming and mathematical/statistical thinking skills. My expertise spans several critical areas:
