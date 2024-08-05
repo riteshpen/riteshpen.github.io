@@ -19,11 +19,11 @@ I am continuously exploring ways to leverage AI for efficiency improvements, suc
 
 ## Experience
 
-Summer Internship/Python DeveloperSummer Internship/Python Developer
-The University of Texas at Dallas · InternshipThe University of Texas at Dallas · Internship
-Jun 2022 - Jul 2022 · 2 mosJun 2022 to Jul 2022 · 2 mos
-Richardson, Texas, United States · RemoteRichardson, Texas, United States · Remote
-As a Python Developer at UTD, I developed solutions to advanced competitive problems in Python and Java. My responsibilities and accomplishments were algorithm implementation included merge sorting, insertions, selections, recursion, binary and linear search. I designed and implemented various data structures such as linked lists, hash mapping, dynamic programming, binary search tree, depth and breath first search, etc. I solved 30+ data structures and algorithms questions which improved my coding skills in Python and Java. I gained hands-on experience by working with Jay Veeraswamy, UTD Professor, in advanced concepts in data structures, algorithms, and writing efficient code. I collaborated with a remote team to get better at problem-solving and improve code efficiency. Our team developed and implemented 3 new Python scripts to automate data processing, resulting in a 15% increase in efficiency for the team's workflow. I utilized tools such as Juypter Notebook for visualizing code to others and IDEs like PyCharm and IntelliJ for efficient code. This internship significantly improved my coding skills and understanding of the applications of different algorithms to make search and sorting more efficient, which helped me provide a solid foundation for approaching challenging problems in my future endeavors.
+Summer Internship/Python Programmer
+The University of Texas at Dallas
+Jun 2022 - Jul 2022
+
+As a Python Developer at UTD, I developed solutions to advanced competitive problems in Python and Java. My responsibilities and accomplishments were algorithm implementation included merge sorting, insertions, selections, recursion, binary, and linear search. I designed and implemented various data structures such as linked lists, hash mapping, dynamic programming, binary search tree, depth and breath first search, etc. I solved 30+ data structures and algorithms questions which improved my coding skills in Python and Java. I gained hands-on experience by working with Jay Veeraswamy, UTD Professor, in advanced concepts in data structures, algorithms, and writing efficient code. I collaborated with a remote team to get better at problem-solving and improve code efficiency. Our team developed and implemented 3 new Python scripts to automate data processing, resulting in a 15% increase in efficiency for the team's workflow. I utilized tools such as Juypter Notebook for visualizing code to others and IDEs like PyCharm and IntelliJ for efficient code. This internship significantly improved my coding skills and understanding of the applications of different algorithms to make search and sorting more efficient, which helped me provide a solid foundation for approaching challenging problems in my future endeavors.
 
 ## Education
 
