@@ -1,6 +1,6 @@
 # Data Scientist
 
-# Python, R, & SQL | Specialized in Predictive Modeling and Statistical Analytics | Machine Learning | Deep Learning | NLP
+## Python, R, & SQL | Specialized in Predictive Modeling and Statistical Analytics | Machine Learning | Deep Learning | NLP
 
 ## Professional Summary
 
