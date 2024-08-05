@@ -1,7 +1,5 @@
 # Data Scientist
 
-## Python, R, & SQL | Specialized in Predictive Modeling and Statistical Analytics | Machine Learning | Deep Learning | NLP
-
 ## Professional Summary
 
 I am an aspiring data scientist with a passion for solving complex problems through data processing and analysis. Over the past few years, I have significantly strengthened my programming and mathematical/statistical thinking skills. My expertise spans several critical areas:
