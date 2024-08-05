@@ -27,14 +27,10 @@ As a Python Developer at UTD, I developed solutions to advanced competitive prob
 
 ## Education
 
-The University of Texas at Austin
-Bachelor of Science - BS, Data Science
+The University of Texas at Austin - Bachelor of Science in Statistics and Data Science
 Aug 2023 - May 2027
-Statistics and Data Science
-
 
 ## Projects
-
 
 ### Tomato Plant Image Classification
 Jul 2024 - Aug 2024
