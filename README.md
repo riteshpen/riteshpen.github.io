@@ -28,8 +28,8 @@ As a Python Developer at UTD, I developed solutions to advanced competitive prob
 ## Education
 
 The University of Texas at Austin
-Bachelor of Science - BS, Data ScienceBachelor of Science - BS, Data Science
-Aug 2023 - May 2027Aug 2023 - May 2027
+Bachelor of Science - BS, Data Science
+Aug 2023 - May 2027
 Statistics and Data Science
 
 
