@@ -19,7 +19,7 @@ I am continuously exploring ways to leverage AI for efficiency improvements, suc
 
 ## Experience
 
-Summer Internship/Python Programmer
+### Summer Internship/Python Programmer
 The University of Texas at Dallas
 Jun 2022 - Jul 2022
 
@@ -36,27 +36,27 @@ Statistics and Data Science
 ## Projects
 
 
-Tomato Plant Image Classification
+### Tomato Plant Image Classification
 Jul 2024 - Aug 2024
 Farmers face economic loss and crop waste every year due to various diseases in tomato plants. The diseases I will be accounting for are early blight and late blight. Early blight is caused by a fungus and late blight is caused by a microorganism. If the tomato plant has any of these diseases it will not produce tomatoes. In this project, I will be creating a model to predict whether the tomato is healthy or has an early blight or late-blight disease using image classification and recognition using CNN (Convolutional Neural Network) as part of a Deep Learning Project. Farmers can use this technology to predict whether their tomato plant has any diseases. I created a functional webpage that allows the user to upload an image of a tomato plant and the model can predict whether or not the tomato plant is a disease.
 
 
-ChatGPT Reviews Regression Project
+### ChatGPT Reviews Regression Project
 Jul 2024 - Aug 2024
 We are given a dataset from Kaggle containing daily-updated user reviews and ratings for the ChatGPT app in the past two years. We want to determine how many likes a post receives and whether the positive post affects the rating score. We want to identify the best regression machine learning model to predict the correlation between the variables thumbsUp count and rating scores, and the positivity level of the posts. To test this we will be using three variables: number of likes, positivity rating score, and true rating score. The model with the best accuracy score ended up being RandomForest and we found out the thumbs-up count had a weak relationship to the rating score and the the more positive words the post used the higher the rating score was received.
 
 
-Atliq_Hardware SQL Query
+### Atliq_Hardware SQL Query
 Jun 2024 - July 2024
 Atliq Hardware (imaginary company) is one of India's leading computer hardware producers and well expanded in other countries.
 However, the management noticed they did not get enough insights to make quick, smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone good at both tech and soft skills. Hence, he decided to conduct an SQL challenge to help him understand both skills. Create and run multiple SQL queries to get business needs insights for 10 ad hoc requests.
 
 
-Celebrity Image Classification
+### Celebrity Image Classification
 Jun 2024 - Aug 2024
 This classification project involves predicting the celebrity based on an image of them. For this example, I used Elon Musk and Bob Ross. I did this by describing distinct features of that person such as eyes, nose, ears, etc, and utilized that to state which celebrity that person is. I downloaded images of different celebrities and classified them by their face and two eyes. If they did not have these features then I would print out an error that the person cannot be classified. For the people that can be classified, I grouped them all into a separate folder to test how accurate my predictions are. I used the SVM algorithm because I found it to have the greatest accuracy score and created a Python Flask Server for users to test. I created a website where the user can upload an image and it will print out a probability score table.
 
-Basketball_Statistical_Analysis
+### Basketball_Statistical_Analysis
 Nov 2023 - Dec 2023
 For this project, I used data from the basketball reference page (https://www.basketball-reference.com/leagues/NBA_2023_per_game.html) for the 2023 NBA season. I utilized web scrapping to see if there were any correlations between their stats and how well they performed. For example, I analyzed if the amount of games played was correlated with the number of points scored per game. Using lots of data, I was able to create models to display whether there is a relation between the given statistic and the player's performance that season.
 
