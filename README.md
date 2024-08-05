@@ -58,6 +58,6 @@ This classification project involves predicting the celebrity based on an image 
 
 ### Basketball_Statistical_Analysis
 Nov 2023 - Dec 2023
-For this project, I used data from the basketball reference page (https://www.basketball-reference.com/leagues/NBA_2023_per_game.html) for the 2023 NBA season. I utilized web scrapping to see if there were any correlations between their stats and how well they performed. For example, I analyzed if the amount of games played was correlated with the number of points scored per game. Using lots of data, I was able to create models to display whether there is a relation between the given statistic and the player's performance that season.
+For this project, I used data from the [basketball reference page](https://www.basketball-reference.com/leagues/NBA_2023_per_game.html) for the 2023 NBA season. I utilized web scrapping to see if there were any correlations between their stats and how well they performed. For example, I analyzed if the amount of games played was correlated with the number of points scored per game. Using lots of data, I was able to create models to display whether there is a relation between the given statistic and the player's performance that season.
 
 
