@@ -5,13 +5,13 @@
 
 I am an aspiring data scientist with a passion for solving complex problems through data processing and analysis. Over the past few years, I have significantly strengthened my programming and mathematical/statistical thinking skills. My expertise spans several critical areas:
 
-• Programming Languages: Proficient in Python and SQL.
-• Data Manipulation: Experienced in utilizing SQL and the Pandas library in Python to structure and clean data in relational databases.
-• Data Visualization: Skilled in creating insightful visualizations using Matplotlib and Seaborn.
-• Predictive Analysis: Proficient in applying various supervised and unsupervised machine learning models to discover data insights and patterns.
-• Statistical Analysis: Adept at drawing meaningful conclusions through rigorous statistical methods such as A/B Testing.
-• Image Recognition: Capable of identifying key features in images using Artificial and Convolutional Neural Networks (ANNs and CNNs).
-• Sentence/Word Embeddings: Using NLP to interpret sentences or words into vectors for the computer to comprehend the human language. 
+- Programming Languages: Proficient in Python and SQL.
+- Data Manipulation: Experienced in utilizing SQL and the Pandas library in Python to structure and clean data in relational databases.
+- Data Visualization: Skilled in creating insightful visualizations using Matplotlib and Seaborn.
+- Predictive Analysis: Proficient in applying various supervised and unsupervised machine learning models to discover data insights and patterns.
+- Statistical Analysis: Adept at drawing meaningful conclusions through rigorous statistical methods such as A/B Testing.
+- Image Recognition: Capable of identifying key features in images using Artificial and Convolutional Neural Networks (ANNs and CNNs).
+- Sentence/Word Embeddings: Using NLP to interpret sentences or words into vectors for the computer to comprehend the human language. 
 
 I am particularly interested in Natural Language Processing (NLP) for text analysis and enhancing AI to improve decision-making. My practical experience includes participating in data science and machine learning hackathons, where I achieved 3rd place in the ASEC Hackathon competition. I stay updated with the latest advancements in Data Science and AI by attending industry events on campus and engaging with the community on LinkedIn.
 
