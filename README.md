@@ -54,8 +54,10 @@ However, the management noticed they did not get enough insights to make quick, 
 Jun 2024 - Aug 2024
 This classification project involves predicting the celebrity based on an image of them. For this example, I used Elon Musk and Bob Ross. I did this by describing distinct features of that person such as eyes, nose, ears, etc, and utilized that to state which celebrity that person is. I downloaded images of different celebrities and classified them by their face and two eyes. If they did not have these features then I would print out an error that the person cannot be classified. For the people that can be classified, I grouped them all into a separate folder to test how accurate my predictions are. I used the SVM algorithm because I found it to have the greatest accuracy score and created a Python Flask Server for users to test. I created a website where the user can upload an image and it will print out a probability score table.
 
-### Basketball_Statistical_Analysis
-Nov 2023 - Dec 2023
-For this project, I used data from the [basketball reference page](https://www.basketball-reference.com/leagues/NBA_2023_per_game.html) for the 2023 NBA season. I utilized web scrapping to see if there were any correlations between their stats and how well they performed. For example, I analyzed if the amount of games played was correlated with the number of points scored per game. Using lots of data, I was able to create models to display whether there is a relation between the given statistic and the player's performance that season.
+### Diabeties Prediction Calculator
+Jun 2024 - Aug 2024
+Diabetes is a common disease in our world today and it is important we can identify it before it is too late. It is usually a result of a bad diet and a sedentary lifestyle. 
+This classification project determines whether or not a person has diabetes given certain characteristics such as age, glucose level, bmi, blood pressure, etc. I downloaded the data
+from kaggle and used it to create a support vector machine machine learning model. After doing data cleaning and preprocessing, I trained and tested the model and then I deployed it using streamlit cloud. 
 
 
