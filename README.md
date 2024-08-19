@@ -50,11 +50,11 @@ Atliq Hardware (imaginary company) is one of India's leading computer hardware p
 However, the management noticed they did not get enough insights to make quick, smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone good at both tech and soft skills. Hence, he decided to conduct an SQL challenge to help him understand both skills. Create and run multiple SQL queries to get business needs insights for 10 ad hoc requests.
 
 
-### Celebrity Image Classification
+### [Celebrity Image Classification](https://github.com/riteshpen/ChatGPT_Reviews)
 Jun 2024 - Aug 2024
 This classification project involves predicting the celebrity based on an image of them. For this example, I used Elon Musk and Bob Ross. I did this by describing distinct features of that person such as eyes, nose, ears, etc, and utilized that to state which celebrity that person is. I downloaded images of different celebrities and classified them by their face and two eyes. If they did not have these features then I would print out an error that the person cannot be classified. For the people that can be classified, I grouped them all into a separate folder to test how accurate my predictions are. I used the SVM algorithm because I found it to have the greatest accuracy score and created a Python Flask Server for users to test. I created a website where the user can upload an image and it will print out a probability score table.
 
-### Diabeties Prediction Calculator
+### [Diabeties Prediction Calculator](https://github.com/riteshpen/Diabeties_Prediction)
 Jun 2024 - Aug 2024
 Diabetes is a common disease in our world today and it is important we can identify it before it is too late. It is usually a result of a bad diet and a sedentary lifestyle. 
 This classification project determines whether or not a person has diabetes given certain characteristics such as age, glucose level, bmi, blood pressure, etc. I downloaded the data
