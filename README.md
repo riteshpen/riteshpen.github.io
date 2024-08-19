@@ -38,26 +38,32 @@ Aug 2023 - May 2027
 Jul 2024 - Aug 2024
 Farmers face economic loss and crop waste every year due to various diseases in tomato plants. The diseases I will be accounting for are early blight and late blight. Early blight is caused by a fungus and late blight is caused by a microorganism. If the tomato plant has any of these diseases it will not produce tomatoes. In this project, I will be creating a model to predict whether the tomato is healthy or has an early blight or late-blight disease using image classification and recognition using CNN (Convolutional Neural Network) as part of a Deep Learning Project. Farmers can use this technology to predict whether their tomato plant has any diseases. I created a functional webpage that allows the user to upload an image of a tomato plant and the model can predict whether or not the tomato plant is a disease.
 
+https://github.com/riteshpen/Tomato_Health
 
 ### ChatGPT Reviews Regression Project
 Jul 2024 - Aug 2024
 We are given a dataset from Kaggle containing daily-updated user reviews and ratings for the ChatGPT app in the past two years. We want to determine how many likes a post receives and whether the positive post affects the rating score. We want to identify the best regression machine learning model to predict the correlation between the variables thumbsUp count and rating scores, and the positivity level of the posts. To test this we will be using three variables: number of likes, positivity rating score, and true rating score. The model with the best accuracy score ended up being RandomForest and we found out the thumbs-up count had a weak relationship to the rating score and the the more positive words the post used the higher the rating score was received. Then I deployed the model to Streamlit Cloud for the user to see the results and test their inputs. The user will type in a sentence and the model will predict the number of likes the post is likely to receive and how positive/negative the post is.
 
+https://github.com/riteshpen/ChatGPT_Reviews
 
 ### Atliq_Hardware SQL Query
 Jun 2024 - July 2024
 Atliq Hardware (imaginary company) is one of India's leading computer hardware producers and well expanded in other countries.
 However, the management noticed they did not get enough insights to make quick, smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone good at both tech and soft skills. Hence, he decided to conduct an SQL challenge to help him understand both skills. Create and run multiple SQL queries to get business needs insights for 10 ad hoc requests.
 
+https://github.com/riteshpen/Atliq_Hardware
 
-### [Celebrity Image Classification](https://github.com/riteshpen/ChatGPT_Reviews)
+### Celebrity Image Classification
 Jun 2024 - Aug 2024
 This classification project involves predicting the celebrity based on an image of them. For this example, I used Elon Musk and Bob Ross. I did this by describing distinct features of that person such as eyes, nose, ears, etc, and utilized that to state which celebrity that person is. I downloaded images of different celebrities and classified them by their face and two eyes. If they did not have these features then I would print out an error that the person cannot be classified. For the people that can be classified, I grouped them all into a separate folder to test how accurate my predictions are. I used the SVM algorithm because I found it to have the greatest accuracy score and created a Python Flask Server for users to test. I created a website where the user can upload an image and it will print out a probability score table.
 
-### [Diabeties Prediction Calculator](https://github.com/riteshpen/Diabeties_Prediction)
+https://github.com/riteshpen/Celebrity_Classifier
+
+### Diabeties Prediction Calculator
 Jun 2024 - Aug 2024
 Diabetes is a common disease in our world today and it is important we can identify it before it is too late. It is usually a result of a bad diet and a sedentary lifestyle. 
 This classification project determines whether or not a person has diabetes given certain characteristics such as age, glucose level, bmi, blood pressure, etc. I downloaded the data
 from Kaggle and used it to create a support vector machine machine learning model. After doing data cleaning and preprocessing, I trained and tested the model and then I deployed it using Streamlit Cloud. 
 
+https://github.com/riteshpen/Diabeties_Prediction
 
