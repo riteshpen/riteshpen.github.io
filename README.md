@@ -5,7 +5,7 @@
 
 ## Professional Summary
 
-I am an aspiring data scientist with a passion for solving complex problems through data processing and analysis. Over the past few years, I have significantly strengthened my programming and mathematical/statistical thinking skills. My expertise spans several critical areas:
+I am an aspiring data scientist passionate about solving complex problems through data processing and analysis. Over the past few years, I have significantly strengthened my programming and mathematical/statistical thinking skills. My expertise spans several critical areas:
 
 - Programming Languages: Proficient in Python and SQL.
 - Data Manipulation: Experienced in utilizing SQL and the Pandas library in Python to structure and clean data in relational databases.
@@ -25,7 +25,7 @@ I am continuously exploring ways to leverage AI for efficiency improvements, suc
 The University of Texas at Dallas
 Jun 2022 - Jul 2022
 
-As a Python Developer at UTD, I developed solutions to advanced competitive problems in Python and Java. My responsibilities and accomplishments were algorithm implementation including merge sorting, insertions, selections, recursion, binary, and linear search. I designed and implemented various data structures such as linked lists, hash mapping, dynamic programming, binary search tree, depth and breath first search, etc. I solved 30+ data structures and algorithms questions which improved my coding skills in Python and Java. I gained hands-on experience by working with Jay Veeraswamy, UTD Professor, in advanced concepts in data structures, algorithms, and writing efficient code. I collaborated with a remote team to get better at problem-solving and improve code efficiency. Our team developed and implemented 3 new Python scripts to automate data processing, resulting in a 15% increase in efficiency for the team's workflow. I utilized tools such as Juypter Notebook for visualizing code to others and IDEs like PyCharm and IntelliJ for efficient code. This internship significantly improved my coding skills and understanding of the applications of different algorithms to make search and sorting more efficient, which helped me provide a solid foundation for approaching challenging problems in my future endeavors.
+As a Python Developer at UTD, I developed solutions to advanced competitive problems in Python and Java. My responsibilities and accomplishments were algorithm implementation including merge sorting, insertions, selections, recursion, binary, and linear search. I designed and implemented various data structures such as linked lists, hash mapping, dynamic programming, binary search tree, depth and breath first search, etc. I solved 30+ data structures and algorithms questions, improving my Python and Java coding skills. I gained hands-on experience working with Jay Veeraswamy, UTD Professor, in advanced concepts in data structures, algorithms, and efficient code. I collaborated with a remote team to get better at problem-solving and improve code efficiency. Our team developed and implemented 3 new Python scripts to automate data processing, resulting in a 15% increase in efficiency for the team's workflow. I utilized tools such as Juypter Notebook for visualizing code to others and IDEs like PyCharm and IntelliJ for efficient code. This internship significantly improved my coding skills and understanding of the applications of different algorithms to make search and sorting more efficient, which helped me provide a solid foundation for approaching challenging problems in my future endeavors.
 
 ## Education
 
@@ -41,7 +41,7 @@ Farmers face economic loss and crop waste every year due to various diseases in 
 
 ### ChatGPT Reviews Regression Project
 Jul 2024 - Aug 2024
-We are given a dataset from Kaggle containing daily-updated user reviews and ratings for the ChatGPT app in the past two years. We want to determine how many likes a post receives and whether the positive post affects the rating score. We want to identify the best regression machine learning model to predict the correlation between the variables thumbsUp count and rating scores, and the positivity level of the posts. To test this we will be using three variables: number of likes, positivity rating score, and true rating score. The model with the best accuracy score ended up being RandomForest and we found out the thumbs-up count had a weak relationship to the rating score and the the more positive words the post used the higher the rating score was received.
+We are given a dataset from Kaggle containing daily-updated user reviews and ratings for the ChatGPT app in the past two years. We want to determine how many likes a post receives and whether the positive post affects the rating score. We want to identify the best regression machine learning model to predict the correlation between the variables thumbsUp count and rating scores, and the positivity level of the posts. To test this we will be using three variables: number of likes, positivity rating score, and true rating score. The model with the best accuracy score ended up being RandomForest and we found out the thumbs-up count had a weak relationship to the rating score and the the more positive words the post used the higher the rating score was received. Then I deployed the model to Streamlit Cloud for the user to see the results and test their inputs. The user will type in a sentence and the model will predict the number of likes the post is likely to receive and how positive/negative the post is.
 
 
 ### Atliq_Hardware SQL Query
@@ -58,6 +58,6 @@ This classification project involves predicting the celebrity based on an image 
 Jun 2024 - Aug 2024
 Diabetes is a common disease in our world today and it is important we can identify it before it is too late. It is usually a result of a bad diet and a sedentary lifestyle. 
 This classification project determines whether or not a person has diabetes given certain characteristics such as age, glucose level, bmi, blood pressure, etc. I downloaded the data
-from kaggle and used it to create a support vector machine machine learning model. After doing data cleaning and preprocessing, I trained and tested the model and then I deployed it using streamlit cloud. 
+from Kaggle and used it to create a support vector machine machine learning model. After doing data cleaning and preprocessing, I trained and tested the model and then I deployed it using Streamlit Cloud. 
 
 
