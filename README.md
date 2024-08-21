@@ -56,6 +56,6 @@ This classification project involves predicting the celebrity based on an image 
 ### **[Diabeties Prediction Calculator](https://github.com/riteshpen/Diabeties_Prediction)**
 Jun 2024 - Aug 2024
 Diabetes is a common disease in our world today and it is important we can identify it before it is too late. It is usually a result of a bad diet and a sedentary lifestyle. 
-This classification project determines whether or not a person has diabetes given certain characteristics such as age, glucose level, bmi, blood pressure, etc. I downloaded the data
+This classification project determines whether or not a person has diabetes given certain characteristics such as age, glucose level, BMI, blood pressure, etc. I downloaded the data
 from Kaggle and used it to create a support vector machine machine learning model. After doing data cleaning and preprocessing, I trained and tested the model and then I deployed it using Streamlit Cloud. 
 
