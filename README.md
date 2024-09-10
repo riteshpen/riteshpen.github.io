@@ -59,3 +59,9 @@ Diabetes is a common disease in our world today and it is important we can ident
 This classification project determines whether or not a person has diabetes given certain characteristics such as age, glucose level, BMI, blood pressure, etc. I downloaded the data
 from Kaggle and used it to create a support vector machine machine learning model. After doing data cleaning and preprocessing, I trained and tested the model and then I deployed it using Streamlit Cloud. 
 
+### **[Real or Fake News Detection](https://github.com/riteshpen/Fake-Real_News)**
+July 2024 - Sep 2024
+Fake News is an ongoing problem today as anyone can edit or create articles making some unreliable. I created an NLP project that can detect whether or not the news is real or 
+not based on the headline. There are 4 phases to this project. First was data collection and then after that, we had to do sentence segmentation, word tokenization, remove stop words,
+apply lemmatization, and apply preproccessing. I converted the text into a vector so I can train and save the model. After saving the model and the scaling, I then deployed it for testing using Streamlit Cloud.
+
